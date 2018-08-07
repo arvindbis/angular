@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Login</title>
 </head>
 <body>
 
+	<form method="POST" action="/Login">
+	
+	</form>
 </body>
 </html>
